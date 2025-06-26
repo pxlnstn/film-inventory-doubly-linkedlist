@@ -1,6 +1,6 @@
 # Film Inventory Management System 🎬
 
-A console-based Java application that manages a film inventory using a doubly linked list. The program allows adding, deleting, searching, and displaying films sorted by year and title. Data is read from and saved to a `.txt` file.
+A console-based Java application that manages a film inventory using a doubly linked list. The program allows adding, deleting, searching, and displaying films sorted by year and title. Data is read from and saved to a .txt file. Efficient.
 
 ## 📌 Features
 
